@@ -23,6 +23,3 @@ Level Leaf (Daun): Ini adalah generasi cucu. Di sini saya memasukkan diri saya s
 
   Tantangan Visualisasi Console
 "Bagian tersulit dari program berbasis teks (CLI) adalah Visualisasi. Karena console hanya membaca dari kiri ke kanan dan atas ke bawah, saya menggunakan fungsi printSpace untuk mengatur indentasi. Saya menggambar garis manual menggunakan karakter | dan _. Ini memberikan efek visual pohon yang mengalir ke bawah, sehingga memudahkan pengguna untuk melihat siapa sepupu saya dan siapa saudara kandung saya hanya dengan melihat sejauh mana posisi nama mereka di layar."
-
-  Kesimpulan dan Pengembangan Masa Depan
-"Program ini membuktikan bahwa C++ adalah bahasa yang sangat kuat untuk mengelola struktur data yang saling terhubung. Untuk pengembangan ke depannya, program ini bisa ditingkatkan dengan fitur Recursive Traversal, di mana program bisa mencari nama anggota keluarga secara otomatis tanpa kita harus menggambar manual posisinya.
