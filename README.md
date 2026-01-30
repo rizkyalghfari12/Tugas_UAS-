@@ -1,4 +1,4 @@
-"Halo semua, saya Muhammad Rizky Alghifari dengan NIM 125103075 Di video kali ini, saya akan mempresentasikan proyek C++ saya yaitu Family Tree. Dalam dunia pemrograman, hubungan orang tua dan anak adalah contoh paling sempurna untuk menerapkan Struktur Data Tree (Pohon). Mengapa? Karena pohon memiliki satu akar (root) yang bisa bercabang menjadi banyak ranting (node), persis seperti silsilah keluarga kita."
+"Halo semua, saya Muhammad Rizky Alghifari dengan NIM 125103075 dengan bapak DONNNY MAULANA, S.KOM, MMSI sebagai dosen mata kuliah Algoritma dan Pemrograman Terstruktur. di video kali ini saya akan mempresentasikan proyek C++ saya yaitu Family Tree. Dalam dunia pemrograman, hubungan orang tua dan anak adalah contoh paling sempurna untuk menerapkan Struktur Data Tree (Pohon). Mengapa? Karena pohon memiliki satu akar (root) yang bisa bercabang menjadi banyak ranting (node), persis seperti silsilah keluarga kita."
 
   Bedah Arsitektur: Struct dan Pointer
 "Mari kita masuk ke bagian kode yang paling krusial, yaitu Struct. Di sini saya mendefinisikan sebuah objek bernama Person. Ada dua elemen kunci di sini:
